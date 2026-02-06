@@ -1,0 +1,15 @@
+# Requirements for Streamlit Dashboard
+# Install with: pip install -r requirements_streamlit.txt
+
+# Core data processing
+pandas==2.1.4
+openpyxl==3.1.2
+
+# Streamlit framework
+streamlit==1.29.0
+
+# Interactive visualizations
+plotly==5.18.0
+
+# Optional: For better Excel export
+xlsxwriter==3.1.9
